@@ -1,6 +1,6 @@
 ---
-description: Офіційні сторінки сервера
 icon: share-nodes
+description: Офіційні сторінки сервера
 ---
 
 # Cоцмережі
@@ -19,6 +19,7 @@ icon: share-nodes
 * [Моніторинг №2](https://minecraft-servers.in.ua/server/3406/)
 * [Моніторинг №3](https://tsarvar.com/uk/servers/minecraft/193.19.252.97:25565)
 * [Моніторинг №4](https://www.planetminecraft.com/server/teamcube/vote/)
+* [Моніторинг №5](https://minecraft-statistic.net/ua/server/TeamCube.html)
 
 {% hint style="success" %}
 Голосуй на моніторингах та став лайки в соцмережах. Просувай сервер разом з нами.
