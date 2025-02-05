@@ -23,8 +23,6 @@ layout:
 
 
 
-{% embed url="https://www.planetminecraft.com/server/teamcube/" %}
-
 ### Як зайти на сервер ?
 
 Для гравців **Java Edition**
