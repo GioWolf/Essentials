@@ -5,7 +5,7 @@ description: Скріншоти з сервера
 
 # Галерея
 
-<div><figure><img src="../.gitbook/assets/ref1.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ref3.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ref2.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/ref1.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ref2.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ref3.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
 
 <div><figure><img src="../.gitbook/assets/2025-01-24_17.33.59.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2025-01-24_13.47.43.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2024-12-26_23.57.40.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
