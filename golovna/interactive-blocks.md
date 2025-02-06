@@ -1,6 +1,6 @@
 ---
-description: Підтримка сервера
 icon: square-dollar
+description: Підтримка сервера
 layout:
   title:
     visible: true
@@ -16,7 +16,7 @@ layout:
 
 # Донат
 
-#### Донат та інші послуги продаються лише через офіційний Telegram-акаунт адміністратора. Щоб придбати донат, натисніть кнопку - [<kbd><mark style="color:blue;">ПРИДБАТИ<mark style="color:blue;"></kbd>](http://t.me/TeamCubeHelp)&#x20;
+#### Донат та інші послуги продаються лише через офіційний Telegram-акаунт адміністратора. Щоб придбати донат, натисніть кнопку - [<mark style="color:blue;">ПРИДБАТИ</mark>](http://t.me/TeamCubeHelp)&#x20;
 
 **Привілеї**
 

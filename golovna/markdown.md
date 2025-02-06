@@ -11,8 +11,6 @@ description: Офіційні сторінки сервера
 * [TikTok](https://www.tiktok.com/@teamcube73?_t=8mxG4N8eYs9&_r=1)
 * [YouTube](https://youtube.com/@teamcube73?si=MDVxr1VoYSDj2gzr)
 
-
-
 **Сторінки в моніторингах**
 
 * [Моніторинг №1](https://allmc.in.ua/193-19-252-97)
@@ -20,6 +18,7 @@ description: Офіційні сторінки сервера
 * [Моніторинг №3](https://tsarvar.com/uk/servers/minecraft/193.19.252.97:25565)
 * [Моніторинг №4](https://www.planetminecraft.com/server/teamcube/vote/)
 * [Моніторинг №5](https://minecraft-statistic.net/ua/server/TeamCube.html)
+* [Моніторинг №6](https://uamon.com/server-teamcube.83/vote)
 
 {% hint style="success" %}
 Голосуй на моніторингах та став лайки в соцмережах. Просувай сервер разом з нами.
