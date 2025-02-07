@@ -54,3 +54,7 @@ description: Відомі помилки на сервері та способи
 <mark style="color:green;">**Вирішення проблеми:**</mark> Використовуйте [PojavLauncher](https://pojavlauncher.app/) для гри з мобільних пристроїв.
 
 </details>
+
+{% hint style="warning" %}
+Якщо ви виявили баг або помилку, сповістіть про це адміністратора. TG: [@TeamCubeHelp](https://t.me/TeamCubeHelp)
+{% endhint %}
