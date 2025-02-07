@@ -13,12 +13,12 @@ description: Офіційні сторінки сервера
 
 **Сторінки в моніторингах**
 
-* [Моніторинг №1](https://allmc.in.ua/193-19-252-97)
+* [Моніторинг №1](https://allmc.in.ua/teamcube-fun)
 * [Моніторинг №2](https://minecraft-servers.in.ua/server/3406/)
 * [Моніторинг №3](https://tsarvar.com/uk/servers/minecraft/193.19.252.97:25565)
 * [Моніторинг №4](https://www.planetminecraft.com/server/teamcube/vote/)
 * [Моніторинг №5](https://minecraft-statistic.net/ua/server/TeamCube.html)
-* [Моніторинг №6](https://uamon.com/server-teamcube.83/vote)
+* [Моніторинг №6](https://uamon.com/server-teamcube.84/vote)
 * [Моніторинг №7](https://monicore.com.ua/server/32/teamcube-vanilla)
 
 {% hint style="success" %}
