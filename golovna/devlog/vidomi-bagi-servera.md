@@ -51,10 +51,10 @@ description: Відомі помилки на сервері та способи
 
 **Якщо ви граєте з версії Bedrock Edition, скоріш за все, у вас некоректно відображаються скіни гравців, меню та голограми.**
 
-<mark style="color:green;">**Вирішення проблеми:**</mark> Використовуйте [PojavLauncher](https://pojavlauncher.app/) для гри з мобільних пристроїв.
+<mark style="color:green;">**Вирішення проблеми:**</mark> Використовуйте [<mark style="color:blue;">PojavLauncher</mark>](https://pojavlauncher.app/) для гри з мобільних пристроїв.
 
 </details>
 
 {% hint style="warning" %}
-Якщо ви виявили баг або помилку, сповістіть про це адміністратора. TG: [@TeamCubeHelp](https://t.me/TeamCubeHelp)
+Якщо ви виявили баг або помилку, сповістіть про це адміністратора. [<mark style="color:blue;">TeamCubeHelp</mark>](https://t.me/TeamCubeHelp)
 {% endhint %}
