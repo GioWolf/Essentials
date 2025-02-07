@@ -37,7 +37,7 @@ layout:
 {% step %}
 ### Додайте айпі адресу у список серверів
 
-Айпі сервера `teamcube.hopto.org` або `193.19.252.97`
+Айпі сервера `teamcube.fun`
 {% endstep %}
 
 {% step %}
@@ -65,7 +65,7 @@ layout:
 {% step %}
 ### Додайте айпі адресу та порт у список серверів
 
-Айпі сервера `teamcube.hopto.org` або `193.19.252.97` порт `19132`
+Айпі сервера `teamcube.fun` порт `19132`
 {% endstep %}
 
 {% step %}
@@ -74,3 +74,7 @@ layout:
 Насолоджуйтесь грою.
 {% endstep %}
 {% endstepper %}
+
+{% hint style="success" %}
+Запасні айпі адреси сервера - `teamcube.hopto.org` або `193.19.252.97`
+{% endhint %}
