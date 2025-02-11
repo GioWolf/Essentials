@@ -19,6 +19,6 @@ description: Скріншоти з сервера
 
 <div><figure><img src="../.gitbook/assets/2024-06-10_16.35.07.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2024-12-01_20.20.02.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2024-12-01_20.20.45.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
-{% hint style="info" %}
-Щоб потрапити в галерею, надсилайте свої скріншоти з сервера адміну в [Telegram](https://t.me/TeamCubeHelp).
+{% hint style="success" %}
+<mark style="color:green;">Щоб потрапити в галерею, надсилайте свої скріншоти з сервера адміну в</mark> [<mark style="color:blue;">телеграм</mark>](https://t.me/TeamCubeHelp)<mark style="color:green;">.</mark>
 {% endhint %}

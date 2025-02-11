@@ -31,7 +31,7 @@ layout:
 {% step %}
 ### Завантажте актуальну версію гри
 
-Інформація в нашому [телеграм](golovna/markdown.md) каналі.
+Інформація в нашому [<mark style="color:blue;">телеграм</mark>](golovna/markdown.md) каналі.
 {% endstep %}
 
 {% step %}
@@ -53,7 +53,7 @@ layout:
 {% step %}
 ### Завантажте перевірену версію Bedrock Edition
 
-Перевірена версія в нашому [телеграм](https://t.me/TeamCube/71) каналі.
+Перевірена версія в нашому [<mark style="color:blue;">телеграм</mark>](https://t.me/TeamCube/71) каналі.
 {% endstep %}
 
 {% step %}
@@ -76,5 +76,5 @@ layout:
 {% endstepper %}
 
 {% hint style="success" %}
-Запасні айпі адреси сервера - `teamcube.hopto.org` або `193.19.252.97`
+Запасні айпі адреси сервера: `teamcube.hopto.org` або `193.19.252.97`
 {% endhint %}
