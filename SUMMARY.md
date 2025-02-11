@@ -8,7 +8,3 @@
 * [Cоцмережі](golovna/markdown.md)
 * [DevLog](golovna/devlog/README.md)
   * [Відомі баги сервера](golovna/devlog/vidomi-bagi-servera.md)
-
-***
-
-* [test page](test-page.md)
