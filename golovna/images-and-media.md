@@ -20,5 +20,5 @@ description: Скріншоти з сервера
 <div><figure><img src="../.gitbook/assets/2024-06-10_16.35.07.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2024-12-01_20.20.02.png" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2024-12-01_20.20.45.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 {% hint style="success" %}
-<mark style="color:green;">Щоб потрапити в галерею, надсилайте свої скріншоти з сервера адміну:</mark> [<mark style="color:blue;">TeamCubeHelp</mark>](https://t.me/TeamCubeHelp)
+Щоб потрапити в галерею, надсилайте свої скріншоти з сервера адміну: [<mark style="color:blue;">TeamCubeHelp</mark>](https://t.me/TeamCubeHelp)
 {% endhint %}
