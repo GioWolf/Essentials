@@ -5,7 +5,7 @@ description: Офіційні сторінки сервера
 
 # Cоцмережі
 
-**Cторінки в соціальних мережах**
+**Cторінки в соцмережах**
 
 * [Telegram](https://t.me/TeamCube)
 * [TikTok](https://www.tiktok.com/@teamcube73?_t=8mxG4N8eYs9&_r=1)
