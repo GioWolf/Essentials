@@ -1,6 +1,6 @@
 ---
-description: Ігрові правила сервера
 icon: octagon-check
+description: Ігрові правила сервера
 ---
 
 # Правила
@@ -20,6 +20,7 @@ icon: octagon-check
 * **2.2** Заборонено ображати інших гравців та їхніх родичів.
 * **2.3** Заборонено спам та флуд у будь-якому чаті та особистих повідомленнях.
 
+{% hint style="info" %}
+Подати скаргу на порушника правил можна в розділі "[<mark style="color:blue;">Заявки</mark>](zayavki.md)" або [<mark style="color:blue;">TeamCubeHelp</mark>](https://t.me/TeamCubeHelp)
+{% endhint %}
 
-
-{% embed url="https://docs.google.com/forms/d/e/1FAIpQLScxiQAwu7JyK9RH8LKuBDwT1An7dmZHxNKWnRf5Us74flvM8A/viewform?usp=header" %}
