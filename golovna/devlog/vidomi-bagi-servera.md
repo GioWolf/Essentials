@@ -56,5 +56,5 @@ description: Відомі баги сервера та способи їх ви�
 </details>
 
 {% hint style="warning" %}
-Якщо ви виявили баг або помилку, сповістіть про це адміністратора: [<mark style="color:blue;">TeamCubeHelp</mark>](https://t.me/TeamCubeHelp)
+Якщо ви виявили баг або помилку, повідомте про це в розділі "[<mark style="color:blue;">Заявки</mark>](../zayavki.md)"
 {% endhint %}
