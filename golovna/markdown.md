@@ -17,5 +17,5 @@ icon: share-nodes
 * [<mark style="color:blue;">Моніторинг №3</mark>](https://tsarvar.com/uk/servers/minecraft/193.19.252.97:25565)               [<mark style="color:blue;">Моніторинг №4</mark>](https://www.planetminecraft.com/server/teamcube/vote/)
 * [<mark style="color:blue;">Моніторинг №5</mark>](https://minecraft-statistic.net/ua/server/TeamCube.html)               [<mark style="color:blue;">Моніторинг №6</mark>](https://uamon.com/server-teamcube.84/vote)
 * [<mark style="color:blue;">Моніторинг №7</mark>](https://monicore.com.ua/server/32/teamcube-vanilla)               [<mark style="color:blue;">Моніторинг №8</mark>](https://minecraft-mp.com/server/340996/vote/)
-* [Моніторинг №9](https://minecraft-server-list.com/server/512754/vote/)
+* [Моніторинг №9](https://minecraft-server-list.com/server/512754/vote/)               [Моніторинг №10](https://minecraftservers.org/vote/675215)
 
