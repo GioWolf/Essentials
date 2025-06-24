@@ -16,7 +16,7 @@ layout:
 
 # Донат
 
-Щоб придбати донат, натисніть кнопку — [<mark style="color:blue;">ᴅᴏɴᴀᴛᴇ</mark>](http://teamcube.fun/donate/)
+Щоб придбати донат, натисніть кнопку — [<mark style="color:blue;">ᴅᴏɴᴀᴛᴇ</mark>](http://www.teamcube.fun/donate/)
 
 **Привілеї**
 
