@@ -1,22 +1,11 @@
 ---
 description: Підтримка сервера
 icon: square-dollar
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Донат
 
-Щоб придбати донат, натисніть кнопку — [<mark style="color:blue;">ᴅᴏɴᴀᴛᴇ</mark>](http://www.teamcube.fun/donate/)
+Щоб придбати донат, натисніть кнопку — [<mark style="color:blue;">ᴅᴏɴᴀᴛᴇ</mark>](https://teamcube.fun/donate/)
 
 **Привілеї**
 
