@@ -1,18 +1,7 @@
 ---
-icon: server
 description: Інформація про сервер
 noIndex: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+icon: server
 ---
 
 # Про сервер
@@ -37,7 +26,7 @@ layout:
 {% step %}
 ### Додайте айпі адресу у список серверів
 
-Айпі сервера `teamcube.fun`
+Айпі сервера `teamcube.top`
 {% endstep %}
 
 {% step %}
@@ -65,7 +54,7 @@ layout:
 {% step %}
 ### Додайте айпі адресу та порт у список серверів
 
-Айпі сервера `teamcube.fun` порт `19132`
+Айпі сервера `teamcube.top` порт `19132`
 {% endstep %}
 
 {% step %}
