@@ -1,9 +1,11 @@
 ---
-icon: image-landscape
 description: Скріншоти з сервера
+icon: image-landscape
 ---
 
 # Галерея
+
+<div><figure><img src="../.gitbook/assets/2026-01-07_17.57.40.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2026-01-07_17.59.37.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2026-01-07_17.57.05.png" alt="" width="188"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2025-06-12_18.45.11.png" alt="" width="188"><figcaption></figcaption></figure></div>
 
 <div><figure><img src="../.gitbook/assets/ref1.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ref2.PNG" alt="" width="375"><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/ref3.PNG" alt="" width="375"><figcaption></figcaption></figure></div>
 
