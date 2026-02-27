@@ -7,6 +7,14 @@ icon: wrench
 
 <details>
 
+<summary>Оновлення / 27.02.2026</summary>
+
+* Сервер оновлено до версії 1.21.11
+
+</details>
+
+<details>
+
 <summary>Оновлення / 09.01.2026</summary>
 
 * Змінено IP-адресу сервера на teamcube.top
