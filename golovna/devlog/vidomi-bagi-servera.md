@@ -1,9 +1,19 @@
 ---
-icon: triangle-exclamation
 description: Відомі баги сервера та способи їх вирішення
+icon: triangle-exclamation
 ---
 
 # Відомі баги сервера
+
+<details>
+
+<summary>Не працює вхід з версії Bedrock Edition</summary>
+
+**Тимчасово не працює вхід на сервер з версії Bedrock Edition.**
+
+<mark style="color:green;">**Вирішення проблеми:**</mark> тимчасово відсутнє (⇀‸↼‶)
+
+</details>
 
 <details>
 

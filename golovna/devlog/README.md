@@ -7,6 +7,14 @@ icon: wrench
 
 <details>
 
+<summary>Оновлення / 31.03.2026</summary>
+
+* Випревлено помилку з некоректною роботою Anti-XRay
+
+</details>
+
+<details>
+
 <summary>Оновлення / 27.02.2026</summary>
 
 * Сервер оновлено до версії 1.21.11
