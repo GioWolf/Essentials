@@ -7,16 +7,6 @@ icon: triangle-exclamation
 
 <details>
 
-<summary>Не працює вхід з версії Bedrock Edition</summary>
-
-**Тимчасово не працює вхід на сервер з версії Bedrock Edition.**
-
-<mark style="color:green;">**Вирішення проблеми:**</mark> тимчасово відсутнє (⇀‸↼‶)
-
-</details>
-
-<details>
-
 <summary>Хибне спрацювання PvP режиму</summary>
 
 **Зафіксовано два види хибного спрацювання входу в режим PvP.**

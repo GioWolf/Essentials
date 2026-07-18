@@ -21,4 +21,5 @@ icon: share-nodes
 * [https://www.minecraftiplist.com/server/TeamCube-38099/vote](https://www.minecraftiplist.com/server/TeamCube-38099/vote)
 * [https://minecraft.menu/server-teamcube.4945/vote](https://minecraft.menu/server-teamcube.4945/vote)
 * [https://minecraft-serverlist.com/server/2317](https://minecraft-serverlist.com/server/2317)
+* [https://monicore.com.ua/server/32/teamcube-vanilla/](https://monicore.com.ua/server/32/teamcube-vanilla/)
 
